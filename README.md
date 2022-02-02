@@ -53,4 +53,54 @@ New section Table
 *Swami Vivekananda*
 
 ---
+### Code Fencing
 
+---
+> A sphere (from Greek σφαῖρα—sphaira, "globe, ball") is a geometrical object that is a three-dimensional analogue to a two-dimensional circle. A sphere is the set of points that are all at the same distance r from a given point in three-dimensional space.
+[Corresponding link](https://en.wikipedia.org/wiki/Sphere)
+
+~~~
+Implementation:
+
+struct point2d {
+    ftype x, y;
+    point2d() {}
+    point2d(ftype x, ftype y): x(x), y(y) {}
+    point2d& operator+=(const point2d &t) {
+        x += t.x;
+        y += t.y;
+        return *this;
+    }
+    point2d& operator-=(const point2d &t) {
+        x -= t.x;
+        y -= t.y;
+        return *this;
+    }
+    point2d& operator*=(ftype t) {
+        x *= t;
+        y *= t;
+        return *this;
+    }
+    point2d& operator/=(ftype t) {
+        x /= t;
+        y /= t;
+        return *this;
+    }
+    point2d operator+(const point2d &t) const {
+        return point2d(*this) += t;
+    }
+    point2d operator-(const point2d &t) const {
+        return point2d(*this) -= t;
+    }
+    point2d operator*(ftype t) const {
+        return point2d(*this) *= t;
+    }
+    point2d operator/(ftype t) const {
+        return point2d(*this) /= t;
+    }
+};
+point2d operator*(ftype a, point2d b) {
+    return b * a;
+}
+~~~
+[Code link](https://cp-algorithms.com/geometry/basic-geometry.html)
