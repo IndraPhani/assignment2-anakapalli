@@ -12,3 +12,14 @@ The distance between Visakhapatnam Airport to R K Beach is 22 Km by road.
 3. Refer Directions from Visakhapatnam Airport to R K Beach for road driving directions!
 4. Favourite food destination in RK beach is arrived.
 
+---
+####  Unordered List
+- Muri Mixture. A Muri Mixture vendor at RK Beach.
+- Tomato Bajji. Bajji Cart at Double Road. 
+- Punugulu. Sumptuous punugulu. 
+- Sweet Corn. Sweet corn vendors. 
+- Dosa. Dosa with peanut chutney. 
+- Liver Kebab. Liver and chicken kebab. 
+- Idli. Midnight Idli at Rly Station. 
+- Masala Batani. Masala Batani in a bowl.
+
