@@ -24,3 +24,15 @@ The distance between Visakhapatnam Airport to R K Beach is 22 Km by road.
 - Masala Batani. Masala Batani in a bowl.
 
 [ABOUTME](https://github.com/IndraPhani/assignment2-anakapalli/blob/main/AboutMe.md)
+
+---
+New section Table
+---
+|Game Name |Location|Money   |
+|----      |----    |--------|
+|Swimming  |Hyderabad|200$   |
+|Football  |Vizag    |250$   |
+|cricket   |chennai  |300$   |
+|Golf      |Banglore |350$   |
+
+
