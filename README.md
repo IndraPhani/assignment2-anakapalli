@@ -35,4 +35,22 @@ New section Table
 |cricket   |chennai  |300$   |
 |Golf      |Banglore |350$   |
 
+---
+##### Quote Section
+
+---
+
+> "There is no remedy for love but to love more."
+
+*Henry David Thoreau*
+
+> "Lose money for the firm, and I will be understanding. Lose a shred of reputation for the firm, and I will be ruthless."
+
+*Warren Buffett’s*
+
+> "You cannot believe in God until you believe in yourself."
+
+*Swami Vivekananda*
+
+---
 
